@@ -1,9 +1,11 @@
 --==End of Days Changelog==--
 
+8/22/23 (17:55) - Devbuild 0.1b
+[API][Fix] Fixed webserver crash.
+
 8/22/23 (17:51) - Devbuild 0.1a
 [Client][Add] Added AC130 crash to Cliffside.
 
-
 8/22/23 (16:46) - Devbuild 0.1
 [GameServer][Change] Changed the way servers Handel player connections @ AI_Player.cpp 
-[Client][Change] Changed the way the UI looked, It nice and clean now.
+[Client][Change] Changed the way the UI looked, It's nice and clean now.
