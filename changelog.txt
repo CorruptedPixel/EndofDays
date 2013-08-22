@@ -1,5 +1,16 @@
 --==End of Days Changelog==--
 
+8/22/23 (17:55) - Devbuild 0.1.1
+[GameServer][Add] Added debug mode ( Testing ) 
+[SupervisorServer][Fix] TCP/P2P crashing
+[Masterserver][Fix] Ruduced query time to get the list of active servers
+[Client][WIP] Vaults are semi working.
+[Client][Add] Added minimap for Cliffside.
+[Client][Fix] Crash when connecting to maps.
+[Client/Server]Fixed SecRep and WepDataRep dissconnects.
+[PixelShield][Add] Blocked ALT+F4.
+[PixelShield][Fix] You now get loggedout when being banned.
+
 8/22/23 (17:55) - Devbuild 0.1b
 [API][Fix] Fixed webserver crash.
 
