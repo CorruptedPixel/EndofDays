@@ -1,5 +1,10 @@
 --==End of Days Changelog==--
 
+8/22/23 (21:09) - Devbuild 0.1.2
+[GameServer][Fix]Server forcing death on player when joining
+[Client][Fix] Skilltree UI crash
+[API][Fix] when server crashes you are still set as IsOnline = true
+
 8/22/23 (20:44) - Devbuild 0.1.1b
 [Client][Fix] Fixed login validation error.
 
@@ -27,5 +32,5 @@
 [Client][Add] Added AC130 crash to Cliffside.
 
 8/22/23 (16:46) - Devbuild 0.1
-[GameServer][Change] Changed the way servers Handel player connections @ AI_Player.cpp 
+[GameServer][Change] Changed the way servers Handel player connections.
 [Client][Change] Changed the way the UI looked, It's nice and clean now.
