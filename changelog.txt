@@ -1,20 +1,24 @@
 --==End of Days Changelog==--
+8/23/13 (15:00) - Devbuild 0.2
+[Server][Add] PVP and PVE mode to server config
+[Client][Add] Add EOD_PVP_Colorado, EOD_PVE_Colorado, and EOD_PVP_Cliffside.
+[Admin]First commit of EOD Admin.
 
-8/22/23 (21:09) - Devbuild 0.1.2
+8/22/13 (21:09) - Devbuild 0.1.2
 [GameServer][Fix]Server forcing death on player when joining
 [Client][Fix] Skilltree UI crash
 [API][Fix] when server crashes you are still set as IsOnline = true
 
-8/22/23 (20:44) - Devbuild 0.1.1b
+8/22/13 (20:44) - Devbuild 0.1.1b
 [Client][Fix] Fixed login validation error.
 
-8/22/23 (20:40) - Devbuild 0.1.1a
+8/22/13 (20:40) - Devbuild 0.1.1a
 [GameServer][Change] Re-networked WOAPIBackend.cpp ( Runs faster ).
 [GameServer][Fix] Validation Crash.
 [Client][Fix] Viewing inventory crash.
 [AI][Add] Added flanking zombie type.
 
-8/22/23 (17:55) - Devbuild 0.1.1
+8/22/13 (17:55) - Devbuild 0.1.1
 [GameServer][Add] Added debug mode ( Testing ) .
 [SupervisorServer][Fix] TCP/P2P crashing.
 [Masterserver][Fix] Ruduced query time to get the list of active servers.
@@ -25,12 +29,12 @@
 [PixelShield][Add] Blocked ALT+F4.
 [PixelShield][Fix] You now get logged out when being banned.
 
-8/22/23 (17:55) - Devbuild 0.1b
+8/22/13 (17:55) - Devbuild 0.1b
 [API][Fix] Fixed webserver crash.
 
-8/22/23 (17:51) - Devbuild 0.1a
-[Client][Add] Added AC130 crash to Cliffside.
+8/22/13 (17:51) - Devbuild 0.1a
+[Client/Server][Cliffside][Add] Added AC130 crash.
 
-8/22/23 (16:46) - Devbuild 0.1
+8/22/13 (16:46) - Devbuild 0.1
 [GameServer][Change] Changed the way servers Handel player connections.
 [Client][Change] Changed the way the UI looked, It's nice and clean now.
