@@ -1,10 +1,13 @@
 --==End of Days Changelog==--
 
-8/22/23 (20:42) - Devbuild 0.1.1b
+8/22/23 (20:44) - Devbuild 0.1.1b
+[Client][Fix] Fixed login validation error.
+
+8/22/23 (20:40) - Devbuild 0.1.1a
 [GameServer][Change] Re-networked WOAPIBackend.cpp ( Runs faster ).
 [GameServer][Fix] Validation Crash.
-[Client] Viewing inventory crash.
-[AI] Added flanking zombie type.
+[Client][Fix] Viewing inventory crash.
+[AI][Add] Added flanking zombie type.
 
 8/22/23 (17:55) - Devbuild 0.1.1
 [GameServer][Add] Added debug mode ( Testing ) .
@@ -15,7 +18,7 @@
 [Client][Fix] Crash when connecting to maps.
 [Client/Server]Fixed SecRep and WepDataRep dissconnects.
 [PixelShield][Add] Blocked ALT+F4.
-[PixelShield][Fix] You now get loggedout when being banned.
+[PixelShield][Fix] You now get logged out when being banned.
 
 8/22/23 (17:55) - Devbuild 0.1b
 [API][Fix] Fixed webserver crash.
